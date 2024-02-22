@@ -106,4 +106,9 @@ margin-left: 65px;
 margin-left: 25px;
 width: 310px;
 }
+    .navigation h1 {
+    font-size: 40px;
+    color: #fff;
+    margin: 20px 0 20px 150px;
+}
 }
