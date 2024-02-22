@@ -1,0 +1,97 @@
+/* CRUD APP(CSS CODE) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crud {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.navigation {
+    width: 550px;
+    height: 600px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+}
+
+.navigation h4 {
+    font-size: 40px;
+    color: #fff;
+    margin: 25px 0 25px 25px;
+}
+
+.navigation h3 {
+    font-size: 40px;
+    color: #fff;
+    margin: 20px 0 20px 70px;
+
+}
+
+.navigation h2 {
+    font-size: 40px;
+    margin: 40px 0 40px 200px;
+    color: #fff;
+}
+
+.navigation h1 {
+    font-size: 40px;
+    color: #fff;
+    margin: 20px 0 20px 300px;
+}
+
+.others input {
+    width: 450px;
+    height: 50px;
+    border: 2px solid #fff;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    color: #fff;
+    font-size: 30px;
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background-color: black;
+    margin: 30px;
+    margin-left: 150px;
+}
+
+button a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
+
+form {
+    position: relative;
+}
+
+.others form i {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    color: #fff;
+    font-size: xx-large;
+    border: 0;
+    outline: 0;
+}
