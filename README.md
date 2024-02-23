@@ -1,11 +1,15 @@
-CRUD-APPLICATION
+#CRUD-APPLICATION
 
 🚀 Presenting My Mini Project - CRUD Application! 🚀
 
 ✅ Designed for easy use on both desktop and mobile devices.
+
 ✅ Utilizes HTML, CSS and JavaScript for smooth functionality.
+
 ✅ With this web application, you can effortlessly create, read, update, and delete tasks, streamlining your workflow like never before.
+
 ✅ Deployed it in netlify for new and better experience.
+
 
 🌟 For better usage of crud app please use it in desktop mode in smaller screens
 Check out the project here: [https://lnkd.in/g6qjUk_J]
